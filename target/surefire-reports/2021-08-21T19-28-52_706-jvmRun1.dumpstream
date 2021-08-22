@@ -1,0 +1,100 @@
+# Created at 2021-08-21T19:29:06.106
+Unexpected IOException with stream: 2021-08-21 19:29:06.103  INFO 22696 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 16 endpoint(s) beneath base path '/actuator'
+
+
+# Created at 2021-08-21T19:29:08.211
+Unexpected IOException with stream: 2021-08-21 19:29:08.210  INFO 22696 --- [           main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+
+
+# Created at 2021-08-21T19:29:08.362
+Unexpected IOException with stream: 2021-08-21 19:29:08.361  WARN 22696 --- [           main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+
+
+# Created at 2021-08-21T19:29:08.408
+Unexpected IOException with stream: 2021-08-21 19:29:08.407  INFO 22696 --- [           main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+
+
+# Created at 2021-08-21T19:29:08.501
+Unexpected IOException with stream: 2021-08-21 19:29:08.499  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+
+
+# Created at 2021-08-21T19:29:08.509
+Unexpected IOException with stream: 2021-08-21 19:29:08.509  INFO 22696 --- [           main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+
+
+# Created at 2021-08-21T19:29:08.551
+Unexpected IOException with stream: 2021-08-21 19:29:08.550  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+
+
+# Created at 2021-08-21T19:29:08.553
+Unexpected IOException with stream: 2021-08-21 19:29:08.552  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+
+
+# Created at 2021-08-21T19:29:08.555
+Unexpected IOException with stream: 2021-08-21 19:29:08.554  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+
+
+# Created at 2021-08-21T19:29:08.558
+Unexpected IOException with stream: 2021-08-21 19:29:08.557  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+
+
+# Created at 2021-08-21T19:29:08.560
+Unexpected IOException with stream: 2021-08-21 19:29:08.559  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+
+
+# Created at 2021-08-21T19:29:08.562
+Unexpected IOException with stream: 2021-08-21 19:29:08.561  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+
+
+# Created at 2021-08-21T19:29:08.564
+Unexpected IOException with stream: 2021-08-21 19:29:08.563  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+
+
+# Created at 2021-08-21T19:29:09.835
+Unexpected IOException with stream: 2021-08-21 19:29:09.834  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+
+
+# Created at 2021-08-21T19:29:09.845
+Unexpected IOException with stream: 2021-08-21 19:29:09.844  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+
+
+# Created at 2021-08-21T19:29:09.852
+Unexpected IOException with stream: 2021-08-21 19:29:09.851  INFO 22696 --- [           main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+
+
+# Created at 2021-08-21T19:29:09.861
+Unexpected IOException with stream: 2021-08-21 19:29:09.861  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1629592149860 with initial instances count: 2
+
+
+# Created at 2021-08-21T19:29:09.868
+Unexpected IOException with stream: 2021-08-21 19:29:09.867  INFO 22696 --- [           main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application SERVICE-LOGIC-SERVER with eureka with status UP
+
+
+# Created at 2021-08-21T19:29:09.871
+Unexpected IOException with stream: 2021-08-21 19:29:09.870  INFO 22696 --- [           main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1629592149870, current=UP, previous=STARTING]
+
+
+# Created at 2021-08-21T19:29:09.875
+Unexpected IOException with stream: 2021-08-21 19:29:09.874  INFO 22696 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SERVICE-LOGIC-SERVER/service-logic-server:96b787c4c73ed14b74ce21a8c1e551e0: registering service...
+
+
+# Created at 2021-08-21T19:29:09.899
+Unexpected IOException with stream: 2021-08-21 19:29:09.898  INFO 22696 --- [           main] c.e.l.LogicServerApplicationTests        : Started LogicServerApplicationTests in 14.125 seconds (JVM running for 15.671)
+
+
+# Created at 2021-08-21T19:29:09.911
+Unexpected IOException: 5,1,com.everis.logicserver.LogicServerApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-08-21T19:29:10.224
+Unexpected IOException with stream: 2021-08-21 19:29:10.222  INFO 22696 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SERVICE-LOGIC-SERVER/service-logic-server:96b787c4c73ed14b74ce21a8c1e551e0 - registration status: 204
+
+
+# Created at 2021-08-21T19:29:10.317
+Unexpected IOException: 6,1,com.everis.logicserver.LogicServerApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-08-21T19:29:10.339
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.everis.logicserver.LogicServerApplicationTests,null,null,null
+
+
