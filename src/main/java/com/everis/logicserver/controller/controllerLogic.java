@@ -17,7 +17,7 @@ import reactor.core.publisher.Mono;
 @CrossOrigin(origins = "*", methods = { RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT,
 		RequestMethod.DELETE })
 @RequestMapping
-public class controllerLogic {
+public class controllerLogic { 
 
 	@GetMapping("/generatedNumberLong/{length}")
 	public Mono<String> generatedNumberLong(@PathVariable("length") int length) {
